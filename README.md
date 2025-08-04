@@ -7,8 +7,8 @@ An end-to-end analytics project focused on delivering comprehensive insights int
 ## 📈 Sales Report
 
 ### 🎯 Project Objective
-- Develop a **Customer Performance Report** to evaluate individual customer contributions to overall sales.
-- Conduct a thorough comparison between **Market Performance** and predefined **Sales Targets**.
+- Develop a [Customer Performance Report](https://github.com/Varshitha123akkala/Excel-Sales-Analytics-View/blob/main/Customer%20Performance%20Report.pdf) to evaluate individual customer contributions to overall sales.
+- Conduct a thorough comparison between [Market Performance and Sales Targets](https://github.com/Varshitha123akkala/Excel-Sales-Analytics-View/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 ### ✅ Purpose of Sales Analytics
 - Enable organizations to monitor and assess their sales performance.
@@ -28,8 +28,8 @@ An end-to-end analytics project focused on delivering comprehensive insights int
 ## 💼 Finance Report
 
 ### 🎯 Project Objective
-- Create **Profit & Loss (P&L) Reports** by fiscal year and individual months.
-- Develop P&L reports segmented by **markets** to analyze performance variations.
+- Create Profit & Loss (P&L) Reports by [fiscal year](https://github.com/Varshitha123akkala/Excel-Sales-Analytics-View/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and individual [months](https://github.com/Varshitha123akkala/Excel-Sales-Analytics-View/blob/main/P%26L%20Statement%20by%20Months.pdf)
+- Develop P&L reports segmented by [markets](https://github.com/Varshitha123akkala/Excel-Sales-Analytics-View/blob/main/P%26L%20Statement%20by%20Markets.pdf) to analyze performance variations.
 
 ### ✅ Purpose of Financial Analytics
 - Evaluate financial performance to support **strategic planning**.
